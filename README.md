@@ -27,7 +27,8 @@ paper1:
    url: TBD
    type: latex
    status: in progress
- ```
+   chapter: Sports
+```
    
 # Paper 2
 
