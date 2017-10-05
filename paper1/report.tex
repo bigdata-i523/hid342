@@ -48,12 +48,26 @@ management of player well-being and performance. The purpose of this paper is to
 National Collegiate Athletics Association (NCAA) football. Recent research on the use of data science to improve various aspects of NCAA 
 football will be surveyed, while current trends and their implications will be discussed. 
 
+\section{Big Data Analytics in NCAA Football}
+\subsection{Predictive Analytics}
+NCAA football analysts invest a significant amount of time trying to forecast performance of various teams throughout the season. Their analysis fuels sports talk shows and other mass media programs that target dedicated fan bases, giving them a deeper understanding of the game and allowing them to learn more about their teams. Data used to support NCAA football analysts’ predictions is drawn from a mix of sources such as coaches’ polls, and detailed and routinely updated data on players’ performance. Some of this data is combined to create composite indexes, such as ESPN’s Football Power Index (FPI), which are used to rank teams based on thousands of simulations of their game outcomes, and updated weekly, based on available data. Composite indexes such as the FPI support broader discussion of matchups every week, and encourage analysts to ask broader questions in previewing games, but typically are not used in any systematic way to predict outcomes.
 
-\begin{acks}
+Several researchers have applied data mining methods towards the prediction of NCAA football scores. Various research efforts have focused on the scope of relevant data, and how to model such data. In their paper comparing NCAA football game outcome prediction methods, Delen et al. used data on NCAA teams from 244 bowl games between 2002 and 2009 to generate and compare several predictive models. They compared the performance of the models by using them to predict 2010-11 bowl game scores and found that classification-based models were better than regression-based classification methods at predicting game outcomes. 
 
-  The authors would like to thank 
+\subsection{Performance Management & Player Safety}
+Several data mining methods have been developed to monitor athletes’ performance and enable coaches to make data-driven decisions to improve results and avoid injuries. Platforms such as Microsoft’s Sports Performance platform enable the collection and aggregation of biometric and other data that can be used to monitor performance. The use of wearable technology devices such as Fitbit to monitor NCAA football players has been proposed. Most efforts to apply data analytics to performance management in NCAA football focus on the evaluation and management of individual players, rather than the use of data mining to drive strategic decisions for teams during games.
 
-\end{acks}
+In support of performance management, groups such as the NCAA Sports Science Institute gather data on injuries to college athletes and have used findings from their studies based on that data to advise the NCAA on issues such as the optimal frequency of football practices. In their paper, Ofoghi et al. describe how performance analysis requirements influence data gathering in their presentation of a general framework that applies data mining methods to sports. Schumaker et al., list several standard data-driven metrics used to assess football teams and individual players, but do not indicate that such metrics have been used to manage performance.
+
+\section{Discussion}
+	Research on predictive models that predict outcomes of NCAA football games illustrates the difficulty involved in capturing the nuances and complexity of the sport in a model. It also illustrates problems with the use of historical data for predictive purposes in NCAA football. For example, the data mined for the study by Delen et al., which was used to predict 2010-11 bowl games, included data points from as early as 2002, when none of the players in the games were even eligible to play college football. It is difficult to determine how much data is sufficient to produce accurate predictions, and current data alone may not be sufficient, since some NCAA football teams may play as few as eleven games in a season.
+	
+The use of data mining to manage player performance raises concerns over privacy and the ownership and potential misuse of the data collected. The scope and amount of data collected about players has increased with the proliferation of the use of data mining methods to study player performance. In some cases, the harvesting of data collected by wearable technology devices by sportswear companies is permitted under the terms of the agreements between universities and the sportswear companies that sponsor their football teams. While companies such as Nike have stated that they have not yet begun harvesting players’ biometric data, at least some of the data they could collect would not be covered by United States federal HIPA (Health Information Portability and Accountability Act) laws.
+
+
+\section{Conclusion}
+The use of data mining and analytics in NCAA football is increasing, as it has in other sports. However, due to the complexity of the game, practical uses of data analytics currently available and under exploration are in individual and team performance management and prevention of injuries. Research on data analytics, and current applications of technology to NCAA football have focused on techniques to extract meaningful information from gathered data, rather than the explanation and use of such information for predictive purposes. This makes the use of data science to predict outcomes and influence strategy in NCAA football games unlikely in the near future.
+
 
 \bibliographystyle{ACM-Reference-Format}
 \bibliography{report} 
