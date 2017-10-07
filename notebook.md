@@ -16,9 +16,11 @@
 
 * Week ending 09/08/17: Read Section 2.1; still need to watch video in section 2.1.4
 * Week ending 09/22/17: Watched video for section 2.1.4
+* Week ending 10/06/17: Finished draft of Paper 1
 
 # Meetings
 
 * Attended online office hours 9/9/17
 * Attended online office hours 9/16/17
 * Attended online office hours 9/30/17
+* Attended online office hours 10/02/17
