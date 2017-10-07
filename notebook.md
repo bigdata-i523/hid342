@@ -24,3 +24,4 @@
 * Attended online office hours 9/16/17
 * Attended online office hours 9/30/17
 * Attended online office hours 10/02/17
+* Attended online office hours 10/06/17
