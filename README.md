@@ -26,7 +26,7 @@ paper1:
    abstract: This paper surveys the various applications of big data analytics in NCAA college football, their benefits, and opportunities for potential new uses.
    url: https://github.com/bigdata-i523/hid342/blob/master/paper1/report.tex
    type: latex
-   status: 1st draft complete
+   status: 100% done
    chapter: Sports
 ```
    
