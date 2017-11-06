@@ -19,15 +19,15 @@ paper1:
     url: https://github.com/bigdata-i523/hid342/blob/master/paper1/report.tex
 paper2:
     review: Nov 6 2017
-    abstract: TBD
+    abstract: Public policy development in areas such as healthcare, education, housing, natural resource management and defense should ideally solve pertinent problems. In policy formulation, politicians and bureaucrats reference statistics constantly, often giving the impression that data drives their decisions. How do they and their staffers gather analyze and interpret such data to arrive at their conclusions? An examination of the tools at the disposal of public policy developers and their effectiveness is needed.
     author:
         - Udoyen, Nsikan
     hid:
         - 342
-    status: in progress
-    title: Still under consideration
+    status: 70%
+    title: Applications of Big Data Analytics in Public Policy Development and Evaluation
     type: latex
-    url: TBD
+    url: https://github.com/bigdata-i523/hid342/blob/master/paper2/report.tex
 project:
     abstract: TBD
     author:
