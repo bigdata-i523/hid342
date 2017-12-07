@@ -18,6 +18,7 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid342/blob/master/paper1/report.tex
 paper2:
+    exclude: True
     review: Nov 6 2017
     abstract: Public policy development in areas such as healthcare, education, housing, natural resource management and defense should ideally solve pertinent problems. In policy formulation, politicians and bureaucrats reference statistics constantly, often giving the impression that data drives their decisions. How do they and their staffers gather analyze and interpret such data to arrive at their conclusions? An examination of the tools at the disposal of public policy developers and their effectiveness is needed.
     author:
