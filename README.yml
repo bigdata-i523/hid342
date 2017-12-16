@@ -15,7 +15,6 @@ paper1:
         - 342
     status: 100%
     title: Big data analytics in college football (NCAA)
-    type: latex
     url: https://github.com/bigdata-i523/hid342/blob/master/paper1/report.tex
 paper2:
     exclude: True
@@ -28,7 +27,6 @@ paper2:
         - 342
     status: 70%
     title: Applications of Big Data Analytics in Public Policy Development and Evaluation
-    type: latex
     url: https://github.com/bigdata-i523/hid342/blob/master/paper2/report.tex
 project:
     abstract: TBD
